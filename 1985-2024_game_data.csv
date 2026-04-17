@@ -17,7 +17,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2024,64,North Carolina,1,90,Wagner,16,62
 2024,64,Michigan State,9,69,Mississippi State,8,51
 2024,64,Grand Canyon,12,75,Saint Mary's,5,66
-2024,64,Alabama,4,109,Charleston,13,96
+2024,64,Alabama,4,109,College of Charleston,13,96
 2024,64,Clemson,6,77,New Mexico,11,56
 2024,64,Baylor,3,92,Colgate,14,67
 2024,64,Dayton,7,63,Nevada,10,60
@@ -62,9 +62,9 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2024,4,UConn,1,86,Alabama,4,72
 2024,4,Purdue,1,63,NC State,11,50
 2024,2,UConn,1,75,Purdue,1,60
-2023,64,Alabama,1,96,Texas A&Mâ€“Corpus Christi,16,75
+2023,64,Alabama,1,96,Texas A&M-CC,16,75
 2023,64,Maryland,8,67,West Virginia,9,65
-2023,64,San Diego State,5,63,Charleston,12,57
+2023,64,San Diego State,5,63,College of Charleston,12,57
 2023,64,Furman,13,68,Virginia,4,67
 2023,64,Creighton,6,72,North Carolina State,11,63
 2023,64,Baylor,3,74,UC Santa Barbara,14,56
@@ -109,7 +109,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2023,8,Miami (FL),5,88,Texas,2,81
 2023,64,Kansas,1,96,Howard,16,68
 2023,64,Arkansas,8,73,Illinois,9,63
-2023,64,Saint Mary's,5,63,VCU,12,51
+2023,64,Saint Mary's,5,63,Virginia Commonwealth,12,51
 2023,64,UConn,4,87,Iona,13,63
 2023,64,TCU,6,72,Arizona State,11,70
 2023,64,Gonzaga,3,82,Grand Canyon,14,70
@@ -194,7 +194,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2021,64,Ohio,13,62,Virginia,4,58
 2021,64,USC,6,72,Drake,11,56
 2021,64,Kansas,3,93,Eastern Washington,14,84
-2021,64,Oregon,7,1,VCU,10,0
+2021,64,Oregon,7,1,Virginia Commonwealth,10,0
 2021,64,Iowa,2,86,Grand Canyon,15,74
 2021,32,Gonzaga,1,87,Oklahoma,8,71
 2021,32,Creighton,5,72,Ohio,13,58
@@ -252,7 +252,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2021,4,Baylor,1,78,Houston,2,59
 2021,2,Baylor,1,86,Gonzaga,1,70
 2019,64,Duke,1,85,North Dakota State,16,62
-2019,64,UCF,9,73,VCU,8,58
+2019,64,UCF,9,73,Virginia Commonwealth,8,58
 2019,64,Liberty,12,80,Mississippi State,5,76
 2019,64,Virginia Tech,4,66,Saint Louis,13,52
 2019,64,Maryland,6,79,Belmont,11,77
@@ -281,7 +281,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2019,16,Gonzaga,1,72,Florida State,4,58
 2019,16,Texas Tech,3,63,Michigan,2,44
 2019,8,Texas Tech,3,75,Gonzaga,1,69
-2019,64,Virginia,1,71,Gardnerâ€“Webb,16,56
+2019,64,Virginia,1,71,Gardner Webb,16,56
 2019,64,Oklahoma,9,95,Ole Miss,8,72
 2019,64,Oregon,12,72,Wisconsin,5,54
 2019,64,UC Irvine,13,70,Kansas State,4,64
@@ -374,7 +374,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2018,16,Kansas,1,80,Clemson,5,76
 2018,16,Duke,2,69,Syracuse,11,65
 2018,8,Kansas,1,85,Duke,2,81
-2018,4,Michigan,3,69,Loyolaâ€“Chicago,11,57
+2018,4,Michigan,3,69,Loyola Chicago,11,57
 2018,4,Villanova,1,95,Kansas,1,79
 2018,2,Villanova,1,79,Michigan,3,62
 2017,64,Villanova,1,76,Mount St. Mary's,16,56
@@ -398,7 +398,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2017,64,West Virginia,4,86,Bucknell,13,80
 2017,64,Xavier,11,76,Maryland,6,65
 2017,64,Florida State,3,86,Florida Gulf Coast,14,80
-2017,64,Saint Mary's,7,85,VCU,10,77
+2017,64,Saint Mary's,7,85,Virginia Commonwealth,10,77
 2017,64,Arizona,2,100,North Dakota,15,82
 2017,32,Gonzaga,1,79,Northwestern,8,73
 2017,32,West Virginia,4,83,Notre Dame,5,71
@@ -461,12 +461,12 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2016,64,Duke,4,93,UNC Wilmington,13,85
 2016,64,Northern Iowa,11,75,Texas,6,72
 2016,64,Texas A&M,3,92,Green Bay,14,65
-2016,64,VCU,10,75,Oregon State,7,67
+2016,64,Virginia Commonwealth,10,75,Oregon State,7,67
 2016,64,Oklahoma,2,82,Cal State Bakersfield,15,68
 2016,32,Oregon,1,69,Saint Joseph's,8,64
 2016,32,Duke,4,71,Yale,12,64
 2016,32,Texas A&M,3,92,Northern Iowa,11,88
-2016,32,Oklahoma,2,85,VCU,10,81
+2016,32,Oklahoma,2,85,Virginia Commonwealth,10,81
 2016,16,Oregon,1,82,Duke,4,68
 2016,16,Oklahoma,2,77,Texas A&M,3,63
 2016,8,Oklahoma,2,80,Oregon,1,68
@@ -568,7 +568,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2015,2,Duke,1,68,Wisconsin,1,63
 2014,64,Florida,1,67,Albany,16,55
 2014,64,Pittsburgh,9,77,Colorado,8,48
-2014,64,Stephen F. Austin,12,77,VCU,5,75
+2014,64,Stephen F. Austin,12,77,Virginia Commonwealth,5,75
 2014,64,UCLA,4,76,Tulsa,13,59
 2014,64,Dayton,11,60,Ohio State,6,59
 2014,64,Syracuse,3,77,Western Michigan,14,53
@@ -601,7 +601,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2014,64,North Dakota State,12,80,Oklahoma,5,75
 2014,64,San Diego State,4,73,New Mexico State,13,69
 2014,64,Baylor,6,74,Nebraska,11,60
-2014,64,Creighton,3,76,Louisiana-Lafayette,14,66
+2014,64,Creighton,3,76,Louisiana,14,66
 2014,64,Oregon,7,87,BYU,10,68
 2014,64,Wisconsin,2,75,American,15,35
 2014,32,Arizona,1,84,Gonzaga,8,61
@@ -661,14 +661,14 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2013,8,Wichita State,9,70,Ohio State,2,66
 2013,64,Kansas,1,64,Western Kentucky,16,57
 2013,64,North Carolina,8,78,Villanova,9,71
-2013,64,VCU,5,88,Akron,12,42
+2013,64,Virginia Commonwealth,5,88,Akron,12,42
 2013,64,Michigan,4,71,South Dakota State,13,56
 2013,64,Minnesota,11,83,UCLA,6,63
 2013,64,Florida,3,79,Northwestern State,14,47
 2013,64,San Diego State,7,70,Oklahoma,10,55
 2013,64,Florida Gulf Coast,15,78,Georgetown,2,68
 2013,32,Kansas,1,70,North Carolina,8,58
-2013,32,Michigan,4,78,VCU,5,53
+2013,32,Michigan,4,78,Virginia Commonwealth,5,53
 2013,32,Florida,3,78,Minnesota,11,64
 2013,32,Florida Gulf Coast,15,81,San Diego State,7,71
 2013,16,Michigan,4,87,Kansas,1,85
@@ -694,14 +694,14 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2013,2,Louisville,1,82,Michigan,4,76
 2012,64,Kentucky,1,81,Western Kentucky,16,66
 2012,64,Iowa State,8,77,Connecticut,9,64
-2012,64,VCU,12,62,Wichita State,5,59
+2012,64,Virginia Commonwealth,12,62,Wichita State,5,59
 2012,64,Indiana,4,79,New Mexico State,13,66
 2012,64,Colorado,11,68,UNLV,6,64
 2012,64,Baylor,3,68,South Dakota State,14,60
 2012,64,Xavier,10,67,Notre Dame,7,63
 2012,64,Lehigh,15,75,Duke,2,70
 2012,32,Kentucky,1,87,Iowa State,8,71
-2012,32,Indiana,4,63,VCU,12,61
+2012,32,Indiana,4,63,Virginia Commonwealth,12,61
 2012,32,Baylor,3,80,Colorado,11,63
 2012,32,Xavier,10,70,Lehigh,15,58
 2012,16,Kentucky,1,102,Indiana,4,90
@@ -789,17 +789,17 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2011,64,Illinois,9,73,UNLV,8,62
 2011,64,Richmond,12,69,Vanderbilt,5,66
 2011,64,Morehead State,13,62,Louisville,4,61
-2011,64,VCU,11,74,Georgetown,6,56
+2011,64,Virginia Commonwealth,11,74,Georgetown,6,56
 2011,64,Purdue,3,65,Saint Peter's,14,43
 2011,64,Florida State,10,57,Texas A&M,7,50
 2011,64,Notre Dame,2,69,Akron,15,56
 2011,32,Kansas,1,73,Illinois,9,59
 2011,32,Richmond,12,65,Morehead State,13,48
-2011,32,VCU,11,94,Purdue,3,76
+2011,32,Virginia Commonwealth,11,94,Purdue,3,76
 2011,32,Florida State,10,71,Notre Dame,2,57
 2011,16,Kansas,1,77,Richmond,12,57
-2011,16,VCU,11,72,Florida State,10,71
-2011,8,VCU,11,71,Kansas,1,61
+2011,16,Virginia Commonwealth,11,72,Florida State,10,71
+2011,8,Virginia Commonwealth,11,71,Kansas,1,61
 2011,64,Pittsburgh,1,74,UNC Asheville,16,51
 2011,64,Butler,8,60,Old Dominion,9,58
 2011,64,Kansas State,5,73,Utah State,12,68
@@ -816,7 +816,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2011,16,Florida,2,83,BYU,3,74
 2011,8,Butler,8,74,Florida,2,71
 2011,4,Connecticut,3,56,Kentucky,4,55
-2011,4,Butler,8,70,VCU,11,62
+2011,4,Butler,8,70,Virginia Commonwealth,11,62
 2011,2,Connecticut,3,53,Butler,8,41
 2010,64,Kansas,1,90,Lehigh,16,74
 2010,64,Northern Iowa,9,69,UNLV,8,66
@@ -913,9 +913,9 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2009,8,Connecticut,1,82,Missouri,3,75
 2009,64,Pittsburgh,1,72,East Tennessee State,16,62
 2009,64,Oklahoma State,8,77,Tennessee,9,75
-2009,64,Wisconsin,12,61,Florida St.,5,59
-2009,64,Xavier,4,77,Portland St.,13,59
-2009,64,UCLA,6,65,VCU,11,64
+2009,64,Wisconsin,12,61,Florida State,5,59
+2009,64,Xavier,4,77,Portland State,13,59
+2009,64,UCLA,6,65,Virginia Commonwealth,11,64
 2009,64,Villanova,3,80,American,14,67
 2009,64,Texas,7,76,Minnesota,10,62
 2009,64,Duke,2,86,Binghamton,15,62
@@ -980,7 +980,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2008,64,Pittsburgh,4,82,Oral Roberts,13,63
 2008,64,Marquette,6,74,Kentucky,11,66
 2008,64,Stanford,3,77,Cornell,14,53
-2008,64,Miami (FL),7,78,Saint Mary's (CA),10,64
+2008,64,Miami (FL),7,78,Saint Mary's,10,64
 2008,64,Texas,2,74,Austin Peay,15,54
 2008,32,Memphis,1,77,Mississippi State,8,74
 2008,32,Michigan State,5,65,Pittsburgh,4,54
@@ -1026,13 +1026,13 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2007,64,Kentucky,8,67,Villanova,9,58
 2007,64,Virginia Tech,5,54,Illinois,12,52
 2007,64,Southern Illinois,4,61,Holy Cross,13,51
-2007,64,VCU,11,79,Duke,6,77
+2007,64,Virginia Commonwealth,11,79,Duke,6,77
 2007,64,Pittsburgh,3,79,Wright State,14,58
 2007,64,Indiana,7,70,Gonzaga,10,57
 2007,64,UCLA,2,70,Weber State,15,42
 2007,32,Kansas,1,88,Kentucky,8,76
 2007,32,Southern Illinois,4,63,Virginia Tech,5,48
-2007,32,Pittsburgh,3,84,VCU,11,79
+2007,32,Pittsburgh,3,84,Virginia Commonwealth,11,79
 2007,32,UCLA,2,54,Indiana,7,49
 2007,16,Kansas,1,61,Southern Illinois,4,58
 2007,16,UCLA,2,64,Pittsburgh,3,55
@@ -1071,13 +1071,13 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2007,4,Ohio State,1,67,Georgetown,2,60
 2007,2,Florida,1,84,Ohio State,1,75
 2006,64,Duke,1,70,Southern,16,54
-2006,64,George Washington,8,88,UNC-Wilmington,9,85
+2006,64,George Washington,8,88,UNC Wilmington,9,85
 2006,64,Texas A&M,12,66,Syracuse,5,58
 2006,64,LSU,4,80,Iona,13,64
 2006,64,West Virginia,6,64,Southern Illinois,11,46
 2006,64,Northwestern State,14,64,Iowa,3,63
 2006,64,NC State,10,58,California,7,52
-2006,64,Texas,2,60,Pennsylvania,15,52
+2006,64,Texas,2,60,Penn,15,52
 2006,32,Duke,1,74,George Washington,8,61
 2006,32,LSU,4,58,Texas A&M,12,57
 2006,32,West Virginia,6,67,Northwestern State,14,54
@@ -1104,13 +1104,13 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2006,64,Arizona,8,94,Wisconsin,9,75
 2006,64,Montana,12,87,Nevada,5,79
 2006,64,Boston College,4,88,Pacific,13,76
-2006,64,UWâ Milwaukee,11,82,Oklahoma,6,74
+2006,64,Milwaukee,11,82,Oklahoma,6,74
 2006,64,Florida,3,76,South Alabama,14,50
 2006,64,Georgetown,7,54,Northern Iowa,10,49
 2006,64,Ohio State,2,70,Davidson,15,62
 2006,32,Villanova,1,82,Arizona,8,78
 2006,32,Boston College,4,69,Montana,12,56
-2006,32,Florida,3,82,UWâ Milwaukee,11,60
+2006,32,Florida,3,82,Milwaukee,11,60
 2006,32,Georgetown,7,70,Ohio State,2,52
 2006,16,Villanova,1,60,Boston College,4,59
 2006,16,Florida,3,57,Georgetown,7,53
@@ -1135,23 +1135,23 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2006,2,Florida,3,73,UCLA,2,57
 2005,64,Illinois,1,67,Fairleigh Dickinson,16,55
 2005,64,Nevada,9,61,Texas,8,57
-2005,64,UWâ Milwaukee,12,83,Alabama,5,73
-2005,64,Boston College,4,85,Pennsylvania,13,65
+2005,64,Milwaukee,12,83,Alabama,5,73
+2005,64,Boston College,4,85,Penn,13,65
 2005,64,UAB,11,82,LSU,6,68
 2005,64,Arizona,3,66,Utah State,14,53
-2005,64,Southern Illinois,7,65,St. Mary's,10,56
+2005,64,Southern Illinois,7,65,Saint Mary's,10,56
 2005,64,Oklahoma State,2,63,Southeastern Louisiana,15,50
 2005,32,Illinois,1,71,Nevada,9,59
-2005,32,UWâ Milwaukee,12,83,Boston College,4,75
+2005,32,Milwaukee,12,83,Boston College,4,75
 2005,32,Arizona,3,85,UAB,11,63
 2005,32,Oklahoma State,2,85,Southern Illinois,7,77
-2005,16,Illinois,1,77,UWâ Milwaukee,12,63
+2005,16,Illinois,1,77,Milwaukee,12,63
 2005,16,Arizona,3,79,Oklahoma State,2,78
 2005,8,Illinois,1,90,Arizona,3,89
 2005,64,Washington,1,88,Montana,16,77
 2005,64,Pacific,8,79,Pittsburgh,9,71
 2005,64,Georgia Tech,5,80,George Washington,12,68
-2005,64,Louisville,4,68,Louisiana-Lafayette,13,62
+2005,64,Louisville,4,68,Louisiana,13,62
 2005,64,Texas Tech,6,78,UCLA,11,66
 2005,64,Gonzaga,3,74,Winthrop,14,64
 2005,64,West Virginia,7,63,Creighton,10,61
@@ -1199,7 +1199,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2004,64,Saint Joseph's,1,82,Liberty,16,63
 2004,64,Texas Tech,8,76,Charlotte,9,73
 2004,64,Manhattan,12,75,Florida,5,60
-2004,64,Wake Forest,4,79,VCU,13,78
+2004,64,Wake Forest,4,79,Virginia Commonwealth,13,78
 2004,64,Wisconsin,6,76,Richmond,11,64
 2004,64,Pittsburgh,3,53,Central Florida,14,44
 2004,64,Memphis,7,59,South Carolina,10,43
@@ -1214,7 +1214,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2004,64,Kentucky,1,96,Florida A&M,16,76
 2004,64,UAB,9,102,Washington,8,100
 2004,64,Pacific,12,66,Providence,5,58
-2004,64,Kansas,4,78,UIC,13,53
+2004,64,Kansas,4,78,Illinois-Chicago,13,53
 2004,64,Boston College,6,58,Utah,11,51
 2004,64,Georgia Tech,3,65,Northern Iowa,14,60
 2004,64,Nevada,10,72,Michigan State,7,66
@@ -1246,7 +1246,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2004,64,Syracuse,5,80,BYU,12,75
 2004,64,Maryland,4,86,UTEP,13,83
 2004,64,Vanderbilt,6,71,Western Michigan,11,58
-2004,64,NC State,3,61,Louisiana-Lafayette,14,52
+2004,64,NC State,3,61,Louisiana,14,52
 2004,64,DePaul,7,76,Dayton,10,69
 2004,64,Connecticut,2,70,Vermont,15,53
 2004,32,Alabama,8,70,Stanford,1,67
@@ -1261,9 +1261,9 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2004,2,Connecticut,2,82,Georgia Tech,3,73
 2003,64,Oklahoma,1,71,South Carolina State,16,54
 2003,64,California,8,76,NC State,9,74
-2003,64,Butler,12,47,Mississippi St,5,46
+2003,64,Butler,12,47,Mississippi State,5,46
 2003,64,Louisville,4,86,Austin Peay,13,64
-2003,64,Oklahoma State,6,77,Pennsylvania,11,63
+2003,64,Oklahoma State,6,77,Penn,11,63
 2003,64,Syracuse,3,76,Manhattan,14,65
 2003,64,Auburn,10,65,Saint Joseph's,7,63
 2003,64,Wake Forest,2,76,East Tennessee State,15,73
@@ -1279,7 +1279,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2003,64,Connecticut,5,58,BYU,12,53
 2003,64,Stanford,4,77,San Diego,13,69
 2003,64,Maryland,6,75,UNC Wilmington,11,73
-2003,64,Xavier,3,71,Troy State,14,59
+2003,64,Xavier,3,71,Troy,14,59
 2003,64,Michigan State,7,79,Colorado,10,64
 2003,64,Florida,2,85,Sam Houston State,15,55
 2003,32,Texas,1,77,Purdue,9,67
@@ -1342,7 +1342,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2002,64,Creighton,12,83,Florida,5,82
 2002,64,Illinois,4,93,San Diego State,13,64
 2002,64,Texas,6,70,Boston College,11,57
-2002,64,Mississippi State,3,70,McNeese State,14,58
+2002,64,Mississippi State,3,70,McNeese,14,58
 2002,64,Wake Forest,7,83,Pepperdine,10,74
 2002,64,Oregon,2,81,Montana,15,62
 2002,32,Kansas,1,86,Stanford,8,63
@@ -1356,7 +1356,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2002,64,Notre Dame,8,82,Charlotte,9,63
 2002,64,Indiana,5,75,Utah,12,56
 2002,64,UNC Wilmington,13,93,USC,4,89
-2002,64,California,6,82,Pennsylvania,11,75
+2002,64,California,6,82,Penn,11,75
 2002,64,Pittsburgh,3,71,Central Connecticut State,14,54
 2002,64,Kent State,10,69,Oklahoma State,7,61
 2002,64,Alabama,2,86,Florida Atlantic,15,78
@@ -1372,7 +1372,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2002,64,Missouri,12,93,Miami (FL),5,80
 2002,64,Ohio State,4,69,Davidson,13,64
 2002,64,Wyoming,11,73,Gonzaga,6,66
-2002,64,Arizona,3,86,UC-Santa Barbara,14,81
+2002,64,Arizona,3,86,UC Santa Barbara,14,81
 2002,64,Xavier,7,70,Hawaii,10,58
 2002,64,Oklahoma,2,71,Illinois-Chicago,15,63
 2002,32,UCLA,8,105,Cincinnati,1,101
@@ -1400,7 +1400,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2001,16,Duke,1,76,UCLA,4,63
 2001,16,USC,6,80,Kentucky,2,76
 2001,8,Duke,1,79,USC,6,69
-2001,64,Stanford,1,88,UNC-Greensboro,16,60
+2001,64,Stanford,1,88,UNC Greensboro,16,60
 2001,64,Saint Joseph's,9,66,Georgia Tech,8,62
 2001,64,Cincinnati,5,84,BYU,12,59
 2001,64,Kent State,13,77,Indiana,4,73
@@ -1451,7 +1451,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2000,64,Duke,1,82,Lamar,16,55
 2000,64,Kansas,8,81,DePaul,9,77
 2000,64,Florida,5,69,Butler,12,68
-2000,64,Illinois,4,68,Pennsylvania,13,58
+2000,64,Illinois,4,68,Penn,13,58
 2000,64,Pepperdine,11,77,Indiana,6,57
 2000,64,Oklahoma State,3,86,Hofstra,14,66
 2000,64,Seton Hall,10,72,Oregon,7,71
@@ -1466,7 +1466,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2000,64,Stanford,1,84,South Carolina State,16,65
 2000,64,North Carolina,8,84,Missouri,9,70
 2000,64,Connecticut,5,75,Utah State,12,67
-2000,64,Tennessee,4,63,Louisiana-Lafayette,13,58
+2000,64,Tennessee,4,63,Louisiana,13,58
 2000,64,Miami (FL),6,75,Arkansas,11,71
 2000,64,Ohio State,3,87,Appalachian State,14,61
 2000,64,Tulsa,7,89,UNLV,10,62
@@ -1485,7 +1485,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2000,64,UCLA,6,65,Ball State,11,57
 2000,64,Maryland,3,74,Iona,14,59
 2000,64,Auburn,7,72,Creighton,10,69
-2000,64,Iowa State,2,88,Central Connecticut St,15,78
+2000,64,Iowa State,2,88,Central Connecticut State,15,78
 2000,32,Michigan State,1,73,Utah,8,61
 2000,32,Syracuse,4,52,Kentucky,5,50
 2000,32,UCLA,6,105,Maryland,3,70
@@ -1493,9 +1493,9 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2000,16,Michigan State,1,75,Syracuse,4,58
 2000,16,Iowa State,2,80,UCLA,6,56
 2000,8,Michigan State,1,75,Iowa State,2,64
-2000,64,Arizona,1,71,Jackson St.,16,47
-2000,64,Wisconsin,8,66,Fresno St.,9,56
-2000,64,Texas,5,77,Indiana St.,12,61
+2000,64,Arizona,1,71,Jackson State,16,47
+2000,64,Wisconsin,8,66,Fresno State,9,56
+2000,64,Texas,5,77,Indiana State,12,61
 2000,64,LSU,4,64,Southeast Missouri St.,13,61
 2000,64,Purdue,6,62,Dayton,11,61
 2000,64,Oklahoma,3,74,Winthrop,14,50
@@ -1513,17 +1513,17 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 2000,2,Michigan State,1,89,Florida,5,76
 1999,64,Duke,1,99,Florida A&M,16,58
 1999,64,Tulsa,9,62,College of Charleston,8,53
-1999,64,SW Missouri St.,12,43,Wisconsin,5,32
+1999,64,SW Missouri State,12,43,Wisconsin,5,32
 1999,64,Tennessee,4,62,Delaware,13,52
-1999,64,Temple,6,61,Kent St.,11,54
+1999,64,Temple,6,61,Kent State,11,54
 1999,64,Cincinnati,3,72,George Mason,14,48
 1999,64,Purdue,10,58,Texas,7,54
 1999,64,Miami (FL),2,75,Lafayette,15,54
 1999,32,Duke,1,97,Tulsa,9,56
-1999,32,SW Missouri St.,12,81,Tennessee,4,51
+1999,32,SW Missouri State,12,81,Tennessee,4,51
 1999,32,Temple,6,64,Cincinnati,3,54
 1999,32,Purdue,10,73,Miami (FL),2,63
-1999,16,Duke,1,78,SW Missouri St.,12,61
+1999,16,Duke,1,78,SW Missouri State,12,61
 1999,16,Temple,6,77,Purdue,10,55
 1999,8,Duke,1,85,Temple,6,64
 1999,64,Michigan State,1,76,Mount St. Mary's,16,53
@@ -1532,14 +1532,14 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1999,64,Oklahoma,13,61,Arizona,4,60
 1999,64,Kansas,6,95,Evansville,11,74
 1999,64,Kentucky,3,82,New Mexico State,14,60
-1999,64,Miami (OH),10,59,Washington,7,58
+1999,64,Miami (Ohio),10,59,Washington,7,58
 1999,64,Utah,2,80,Arkansas State,15,58
 1999,32,Michigan State,1,74,Ole Miss,9,66
 1999,32,Oklahoma,13,85,Charlotte,5,72
 1999,32,Kentucky,3,92,Kansas,6,88
-1999,32,Miami (OH),10,66,Utah,2,58
+1999,32,Miami (Ohio),10,66,Utah,2,58
 1999,16,Michigan State,1,54,Oklahoma,13,46
-1999,16,Kentucky,3,58,Miami (OH),10,43
+1999,16,Kentucky,3,58,Miami (Ohio),10,43
 1999,8,Michigan State,1,73,Kentucky,3,66
 1999,64,Auburn,1,80,Winthrop,16,41
 1999,64,Oklahoma State,9,69,Syracuse,8,61
@@ -1560,7 +1560,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1999,64,New Mexico,9,61,Missouri,8,59
 1999,64,Iowa,5,77,UAB,12,64
 1999,64,Arkansas,4,94,Siena,13,80
-1999,64,Florida,6,75,Pennsylvania,11,61
+1999,64,Florida,6,75,Penn,11,61
 1999,64,Weber State,14,76,North Carolina,3,74
 1999,64,Gonzaga,10,75,Minnesota,7,63
 1999,64,Stanford,2,69,Alcorn State,15,57
@@ -1575,7 +1575,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1999,4,Connecticut,1,64,Ohio State,4,58
 1999,2,Connecticut,1,77,Duke,1,74
 1998,64,North Carolina,1,88,Navy,16,52
-1998,64,Charlotte,8,77,UIC,9,62
+1998,64,Charlotte,8,77,Illinois-Chicago,9,62
 1998,64,Princeton,5,69,UNLV,12,57
 1998,64,Michigan State,4,83,Eastern Michigan,13,71
 1998,64,Washington,11,69,Xavier,6,68
@@ -1667,10 +1667,10 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1997,16,Arizona,4,85,Kansas,1,82
 1997,16,Providence,10,71,Chattanooga,14,65
 1997,8,Arizona,4,96,Providence,10,92
-1997,64,Minnesota,1,78,Southwest Texas State,16,46
+1997,64,Minnesota,1,78,Texas State,16,46
 1997,64,Temple,9,62,Ole Miss,8,40
 1997,64,Tulsa,5,81,Boston University,12,52
-1997,64,Clemson,4,68,Miami (OH),13,56
+1997,64,Clemson,4,68,Miami (Ohio),13,56
 1997,64,Iowa State,6,69,Illinois State,11,57
 1997,64,Cincinnati,3,86,Butler,14,69
 1997,64,Xavier,7,80,Vanderbilt,10,68
@@ -1716,7 +1716,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1996,16,Georgetown,2,98,Texas Tech,3,90
 1996,8,Massachusetts,1,86,Georgetown,2,62
 1996,64,Kentucky,1,110,San Jose State,16,72
-1996,64,Virginia Tech,9,61,UWâ Green Bay,8,49
+1996,64,Virginia Tech,9,61,Green Bay,8,49
 1996,64,Iowa State,5,74,California,12,64
 1996,64,Utah,4,72,Canisius,13,43
 1996,64,Louisville,6,82,Tulsa,11,80
@@ -1732,7 +1732,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1996,8,Kentucky,1,83,Wake Forest,2,63
 1996,64,Connecticut,1,68,Colgate,16,59
 1996,64,Eastern Michigan,9,75,Duke,8,60
-1996,64,Mississippi State,5,58,VCU,12,51
+1996,64,Mississippi State,5,58,Virginia Commonwealth,12,51
 1996,64,Princeton,13,43,UCLA,4,41
 1996,64,Boston College,11,64,Indiana,6,51
 1996,64,Georgia Tech,3,90,Austin Peay,14,79
@@ -1810,14 +1810,14 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1995,8,North Carolina,2,74,Kentucky,1,61
 1995,64,Kansas,1,82,Colgate,16,68
 1995,64,Western Kentucky,8,82,Michigan,9,76
-1995,64,Miami (OH),12,71,Arizona,5,62
+1995,64,Miami (Ohio),12,71,Arizona,5,62
 1995,64,Virginia,4,96,Nicholls State,13,72
 1995,64,Memphis,6,77,Louisville,11,56
-1995,64,Purdue,3,49,UWâ Green Bay,14,48
+1995,64,Purdue,3,49,Green Bay,14,48
 1995,64,Syracuse,7,96,Southern Illinois,10,92
 1995,64,Arkansas,2,79,Texas Southern,15,78
 1995,32,Kansas,1,75,Western Kentucky,8,70
-1995,32,Virginia,4,60,Miami (OH),12,54
+1995,32,Virginia,4,60,Miami (Ohio),12,54
 1995,32,Memphis,6,75,Purdue,3,73
 1995,32,Arkansas,2,96,Syracuse,7,94
 1995,16,Virginia,4,67,Kansas,1,58
@@ -1845,7 +1845,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1994,64,Alabama,9,76,Providence,8,70
 1994,64,Wake Forest,5,68,College of Charleston,12,58
 1994,64,Kansas,4,102,Chattanooga,13,73
-1994,64,Marquette,6,81,Southwest Louisiana,11,59
+1994,64,Marquette,6,81,Louisianna,11,59
 1994,64,Kentucky,3,83,Tennessee State,14,70
 1994,64,Michigan State,7,84,Seton Hall,10,73
 1994,64,Duke,2,82,Texas Southern,15,70
@@ -1863,7 +1863,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1994,64,Texas,6,91,Western Kentucky,11,77
 1994,64,Michigan,3,78,Pepperdine,14,74
 1994,64,Maryland,10,74,Saint Louis,7,66
-1994,64,Massachusetts,2,78,Southwest Texas State,15,60
+1994,64,Massachusetts,2,78,Texas State,15,60
 1994,32,Arkansas,1,85,Georgetown,9,73
 1994,32,Tulsa,12,82,Oklahoma State,4,80
 1994,32,Michigan,3,84,Texas,6,79
@@ -1873,14 +1873,14 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1994,8,Arkansas,1,76,Michigan,3,68
 1994,64,Missouri,1,76,Navy,16,53
 1994,64,Wisconsin,9,80,Cincinnati,8,72
-1994,64,UWâ Green Bay,12,61,California,5,57
+1994,64,Green Bay,12,61,California,5,57
 1994,64,Syracuse,4,92,Hawaii,13,78
 1994,64,Minnesota,6,74,Southern Illinois,11,60
 1994,64,Louisville,3,67,Boise State,14,58
 1994,64,Virginia,7,57,New Mexico,10,54
 1994,64,Arizona,2,81,Loyola (MD),15,55
 1994,32,Missouri,1,109,Wisconsin,9,96
-1994,32,Syracuse,4,64,"UW, Green Bay",12,59
+1994,32,Syracuse,4,64,Green Bay,12,59
 1994,32,Louisville,3,60,Minnesota,6,55
 1994,32,Arizona,2,71,Virginia,7,58
 1994,16,Missouri,1,98,Syracuse,4,88
@@ -1894,7 +1894,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1993,64,St John's,5,85,Texas Tech,12,67
 1993,64,Arkansas,4,94,Holy Cross,13,64
 1993,64,Virginia,6,78,Manhattan,11,66
-1993,64,Massachusetts,3,54,Pennsylvania,14,50
+1993,64,Massachusetts,3,54,Penn,14,50
 1993,64,New Mexico State,7,93,Nebraska,10,79
 1993,64,Cincinnati,2,93,Coppin State,15,66
 1993,32,North Carolina,1,112,Rhode Island,8,67
@@ -1970,13 +1970,13 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1992,64,UCLA,1,73,Robert Morris,16,53
 1992,64,Louisville,8,81,Wake Forest,9,58
 1992,64,New Mexico State,12,81,DePaul,5,73
-1992,64,Southwest Louisiana,13,87,Oklahoma,4,83
+1992,64,Louisianna,13,87,Oklahoma,4,83
 1992,64,Georgetown,6,75,South Florida,11,60
 1992,64,Florida State,3,78,Montana,14,68
 1992,64,LSU,7,94,BYU,10,83
 1992,64,Indiana,2,94,Eastern Illinois,15,55
 1992,32,UCLA,1,85,Louisville,8,69
-1992,32,New Mexico State,12,81,Southwest Louisiana,13,73
+1992,32,New Mexico State,12,81,Louisiana,13,73
 1992,32,Florida State,3,78,Georgetown,6,68
 1992,32,Indiana,2,89,LSU,7,79
 1992,16,UCLA,1,85,New Mexico State,12,78
@@ -1985,7 +1985,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1992,64,Ohio State,1,83,Mississippi Valley State,16,56
 1992,64,Connecticut,9,86,Nebraska,8,65
 1992,64,Alabama,5,80,Stanford,12,75
-1992,64,North Carolina,4,68,Miami (OH),13,63
+1992,64,North Carolina,4,68,Miami (Ohio),13,63
 1992,64,Michigan,6,73,Temple,11,66
 1992,64,East Tennessee State,14,87,Arizona,3,80
 1992,64,Tulane,10,61,St John's,7,57
@@ -1999,7 +1999,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1992,8,Michigan,6,75,Ohio State,1,71
 1992,64,Kansas,1,100,Howard,16,67
 1992,64,UTEP,9,55,Evansville,8,50
-1992,64,Michigan State,5,61,SW Missouri St.,12,54
+1992,64,Michigan State,5,61,SW Missouri State,12,54
 1992,64,Cincinnati,4,85,Delaware,13,47
 1992,64,Memphis,6,80,Pepperdine,11,70
 1992,64,Arkansas,3,80,Murray State,14,69
@@ -2062,7 +2062,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1991,8,Duke,2,78,St John's,4,61
 1991,64,UNLV,1,99,Montana,16,65
 1991,64,Georgetown,8,70,Vanderbilt,9,60
-1991,64,Michigan State,5,60,Wisconsinâ€“Green Bay,12,58
+1991,64,Michigan State,5,60,Green Bay,12,58
 1991,64,Utah,4,82,South Alabama,13,72
 1991,64,Creighton,11,64,New Mexico State,6,56
 1991,64,Seton Hall,3,71,Pepperdine,14,51
@@ -2161,7 +2161,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1989,64,DePaul,12,66,Memphis,5,63
 1989,64,UNLV,4,68,Idaho,13,56
 1989,64,Evansville,11,94,Oregon State,6,90
-1989,64,Seton Hall,3,60,SW Missouri St.,14,51
+1989,64,Seton Hall,3,60,SW Missouri State,14,51
 1989,64,UTEP,7,85,LSU,10,74
 1989,64,Indiana,2,99,George Mason,15,85
 1989,32,Arizona,1,94,Clemson,9,68
@@ -2186,7 +2186,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1989,16,Virginia,5,86,Oklahoma,1,80
 1989,16,Michigan,3,92,North Carolina,2,87
 1989,8,Michigan,3,102,Virginia,5,65
-1989,64,Illinois,1,77,McNeese State,16,71
+1989,64,Illinois,1,77,McNeese,16,71
 1989,64,Ball State,9,68,Pittsburgh,8,64
 1989,64,Arkansas,5,120,Loyola Marymount,12,101
 1989,64,Louisville,4,76,Arkansasâ Little Rock,13,71
@@ -2252,11 +2252,11 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1988,64,Arizona,1,90,Cornell,16,50
 1988,64,Seton Hall,8,80,UTEP,9,64
 1988,64,Iowa,5,102,Florida State,12,98
-1988,64,UNLV,4,54,SW Missouri St.,13,50
+1988,64,UNLV,4,54,SW Missouri State,13,50
 1988,64,Florida,6,62,St John's,11,59
 1988,64,Michigan,3,63,Boise State,14,58
 1988,64,Loyola Marymount,10,119,Wyoming,7,115
-1988,64,North Carolina,2,83,North Texas State,15,65
+1988,64,North Carolina,2,83,North Texas,15,65
 1988,32,Arizona,1,84,Seton Hall,8,55
 1988,32,Iowa,5,104,UNLV,4,86
 1988,32,Michigan,3,108,Florida,6,85
@@ -2285,13 +2285,13 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1987,64,Georgetown,1,75,Bucknell,16,53
 1987,64,Ohio State,9,91,Kentucky,8,77
 1987,64,Kansas,5,66,Houston,12,55
-1987,64,SW Missouri St.,13,65,Clemson,4,60
+1987,64,SW Missouri State,13,65,Clemson,4,60
 1987,64,Providence,6,90,UAB,11,68
 1987,64,Austin Peay,14,68,Illinois,3,67
 1987,64,New Orleans,7,83,BYU,10,79
 1987,64,Alabama,2,88,North Carolina A&T,15,71
 1987,32,Georgetown,1,82,Ohio State,9,79
-1987,32,Kansas,5,67,SW Missouri St.,13,63
+1987,32,Kansas,5,67,SW Missouri State,13,63
 1987,32,Providence,6,90,Austin Peay,14,87
 1987,32,Alabama,2,101,New Orleans,7,76
 1987,16,Georgetown,1,70,Kansas,5,57
@@ -2351,7 +2351,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1986,64,Georgetown,4,70,Texas Tech,13,64
 1986,64,NC State,6,66,Iowa,11,64
 1986,64,Arkansasâ Little Rock,14,90,Notre Dame,3,83
-1986,64,Iowa State,7,81,Miami (OH),10,79
+1986,64,Iowa State,7,81,Miami (Ohio),10,79
 1986,64,Michigan,2,70,Akron,15,64
 1986,32,Kansas,1,65,Temple,9,43
 1986,32,Michigan State,5,80,Georgetown,4,68
@@ -2370,7 +2370,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1986,64,Georgia Tech,2,68,Marist,15,53
 1986,32,Kentucky,1,71,Western Kentucky,8,64
 1986,32,Alabama,5,58,Illinois,4,56
-1986,32,LSU,11,83,Memphis St.,3,81
+1986,32,LSU,11,83,Memphis,3,81
 1986,32,Georgia Tech,2,66,Villanova,10,61
 1986,16,Kentucky,1,68,Alabama,5,63
 1986,16,LSU,11,70,Georgia Tech,2,64
@@ -2396,7 +2396,7 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1985,64,Georgetown,1,68,Lehigh,16,43
 1985,64,Virginia Tech,9,87,Temple,8,60
 1985,64,SMU,5,85,Old Dominion,12,68
-1985,64,Loyolaâ€“Chicago,4,59,Iona,13,58
+1985,64,Loyola Chicago,4,59,Iona,13,58
 1985,64,Georgia,6,67,Wichita State,11,59
 1985,64,Illinois,3,76,Northeastern,14,57
 1985,64,Syracuse,7,70,DePaul,10,65
@@ -2415,17 +2415,17 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1985,64,UTEP,11,79,Tulsa,6,75
 1985,64,NC State,3,65,Nevada,14,56
 1985,64,Alabama,7,50,Arizona,10,41
-1985,64,VCU,2,81,Marshall,15,65
+1985,64,Virginia Commonwealth,2,81,Marshall,15,65
 1985,32,St John's,1,68,Arkansas,9,65
 1985,32,Kentucky,12,64,UNLV,4,61
 1985,32,NC State,3,86,UTEP,11,73
-1985,32,Alabama,7,63,VCU,2,59
+1985,32,Alabama,7,63,Virginia Commonwealth,2,59
 1985,16,St John's,1,86,Kentucky,12,70
 1985,16,NC State,3,61,Alabama,7,55
 1985,8,St John's,1,69,NC State,3,60
 1985,64,Michigan,1,59,Fairleigh Dickinson,16,55
 1985,64,Villanova,8,51,Dayton,9,49
-1985,64,Maryland,5,69,Miami (OH),12,68
+1985,64,Maryland,5,69,Miami (Ohio),12,68
 1985,64,Navy,13,78,LSU,4,55
 1985,64,Auburn,11,59,Purdue,6,58
 1985,64,Kansas,3,49,Ohio,14,38
@@ -2453,6 +2453,6 @@ year,round_of,winning_team_name,winning_team_seed,winning_team_score,losing_team
 1985,16,Oklahoma,1,86,Louisiana Tech,5,84
 1985,16,Memphis,2,59,Boston College,11,57
 1985,8,Memphis,2,63,Oklahoma,1,61
-1985,4,Georgetown,1,77,St Johns,1,59
-1985,4,Villanova,8,52,Memphis St.,2,45
+1985,4,Georgetown,1,77,St John's,1,59
+1985,4,Villanova,8,52,Memphis,2,45
 1985,2,Villanova,8,66,Georgetown,1,64
